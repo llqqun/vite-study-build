@@ -10,13 +10,14 @@
   },
   "dependencies": {
     "element-plus": "^2.9.4",
+    "tinymce": "^7.6.1",
     "vue": "^3.5.13",
     "vue-router": "4"
   },
   "devDependencies": {
-    "vite-plugin-commonjs": "^0.10.4",
     "@vitejs/plugin-vue": "^5.2.1",
     "sass-embedded": "^1.83.4",
-    "vite": "^6.1.0"
+    "vite": "^6.1.0",
+    "vite-plugin-commonjs": "^0.10.4"
   }
 }

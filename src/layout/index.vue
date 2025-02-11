@@ -5,6 +5,7 @@
       <el-header>
         <el-button type="primary" @click="$router.push('/home')">demo</el-button>
         <el-button type="primary" @click="$router.push('/demo')">demo2</el-button>
+        <el-button type="primary" @click="$router.push('/tinymce')">tinymce</el-button>
       </el-header>
       <el-main>
         <RouterView />
